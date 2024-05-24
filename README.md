@@ -11,3 +11,13 @@ pip3 install colorama
 pip3 install hashlib
 pip3 install argparse
 ```
+
+
+## Usage
+
+```
+--hash To give the md5 hash file path
+--word To give the path of the password list file
+
+python3 main.py --hash /home/user/hash --word /home/user/passlist
+```
