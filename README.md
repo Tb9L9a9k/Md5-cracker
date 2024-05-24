@@ -3,4 +3,11 @@
 # Md5-cracker
 A good and relatively powerful tool for cracking md5 hash
 
+## Requirements
 
+```
+python3
+pip3 install colorama
+pip3 install hashlib
+pip3 install argparse
+```
